@@ -25,4 +25,4 @@ This repository contains data analysis and data science practice work focused on
 The purpose of this project is to develop practical skills in data handling, Python programming, and exploratory data analysis.
 
 ## Author
-Ajay Mandal
+Ajay Kumar
